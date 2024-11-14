@@ -41,6 +41,34 @@
 - 🧑‍💻 2.1.5 : Les prestations de support aux utilisateurs
 - 💵 2.1.6 : Les coûts refacturés
 - 📉 2.1.7 : Les coûts non liés à l’informatique
+
+# Cahier des Charges : Cadrage et Spécifications Générales
+
+### Contexte et Objectifs
+Le projet se concentre sur une livraison continue (CICD : Continuous Integration Continuous Deployment), visant à sortir régulièrement des mises à jour de fonctionnalités. Ce cahier des charges détaillé intègre des éléments visuels et des schémas pour clarifier les besoins et les responsabilités du projet. 
+
+### Responsabilités et Garanties
+Le cahier des charges définit les responsabilités de chaque acteur et les garanties à respecter pour assurer la qualité du projet et l'atteinte des objectifs.
+
+### Features et Mises à Jour
+- Publication fréquente de mises à jour de fonctionnalités
+- Révision continue du backlog pour prioriser les tâches et les besoins émergents
+
+## Note de la Matinée (14/11/2024) - 2ème Partie
+
+### Méthode Agile
+- **Objectif** : Minimiser les retards causés par des événements non prévus tels que les bugs ou les phases de test.
+
+### Rôles et Responsabilités
+- **Product Owner** : Augmente la valeur business perçue par le client.
+- **Scrum Master** : Responsable de la fluidité du projet, définit les sprints et veille à la rapidité d’exécution.
+- **Product Designer** : Focalisé sur l’expérience utilisateur, avec un design itératif pour s’adapter aux retours.
+
+### Terminologie Clé
+- **Backlog** : Liste de toutes les fonctionnalités et tâches à réaliser, continuellement mise à jour à chaque sprint.
+- **User Story** : Description d’une fonctionnalité avec une perspective utilisateur, permettant de comprendre la valeur de chaque feature.
+- **Kanban** : Outil visuel pour suivre les différentes étapes du projet et réduire le **Lead Time** (temps entre commande et livraison), en visant une optimisation sans gaspillage.
+
 ---
 
 # 📚 Définitions
